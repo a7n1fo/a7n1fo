@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a7n1fo
+- 👋 Hi, I’m Dr Claire
 - 👀 I’m interested in Earth System Modelling
 - 💞️ I’m looking to collaborate on Climate Science
 - 📫 You can reach me on GitHub
